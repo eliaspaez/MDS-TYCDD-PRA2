@@ -8,6 +8,8 @@ Se utiliza RStudio para cargar, limpiar y analizar un dataset de 20.000 registro
 ## Miembros del equipo
 La práctica ha sido realizada por Juan Miguel Iglesias Labraca y Elías Páez de la Rosa.
 
+## Licencia
+ GPL-3.0 License
 
 ## Ficheros
 
@@ -15,5 +17,6 @@ La práctica ha sido realizada por Juan Miguel Iglesias Labraca y Elías Páez d
     BGG_Data_Set_final.csv: Archivo csv con el dataset final que hemos utilizado para los análisis.
     PRA2-TYCVD.Rmd: Archivo R-Markdown con todo el código de la práctica en R.
     PRA2-TYCVD.pdf: Archivo pdf creado desde RStudio con toda la información de la práctica.
-    Vídeo: El enlace al video de la práctica (Google Drive) está disponible en https://drive.google.com/file/d/1NZCXmNyOCfoGUEEE8tkxejZqfSOCKoEW/view?usp=sharing.
+    Vídeo: El enlace al video de la práctica (Google Drive) está disponible en:
+       https://drive.google.com/file/d/1NZCXmNyOCfoGUEEE8tkxejZqfSOCKoEW/view?usp=sharing.
     
