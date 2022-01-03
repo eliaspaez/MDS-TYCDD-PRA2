@@ -9,7 +9,6 @@ output:
 
 
 
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 defaultW <- getOption("warn")
@@ -550,13 +549,17 @@ El análisis de regresión nos demuestra que para realizar la mejor estimación 
 
 
 
-# Repositorio Git
+# Repositorio Git y Vídeo
 
 El enlace con los documentos, código y dataset se encuentran en la siguiente dirección:
 
 **https://github.com/eliaspaez/MDS-TYCDD-PRA2**
 
-El enunciado de la práctica pide tanto el csv co los datos originales como un csv con los datos finales analizados, por lo que se procede a volcar el dataset a un nuevo csv:
+El enlace al vídeo se encuentra en:
+
+**https://drive.google.com/file/d/1NZCXmNyOCfoGUEEE8tkxejZqfSOCKoEW/view?usp=sharing**
+
+El enunciado de la práctica pide tanto el csv con los datos originales como un csv con los datos finales analizados, por lo que se procede a volcar el dataset a un nuevo csv, que será subido al repositorio Git igualmente:
 ```{r}
 write.table (datos, file ="BGG_Data_Set_final.csv", append=F, quote=F, sep='\t',
              row.names=F, col.names=T, fileEncoding="UTF-8")
